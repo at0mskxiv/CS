@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34f267be-1307-4538-bfe3-c3658686177c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppiumExample/src/test/java/PageObjects/HomePageAndroid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppiumExample/src/test/java/Test/Test_Picnic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/AppiumExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/Android/Contacts.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/Contacts.ipa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/AppIcon40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/AppIcon40x40@2x~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Assets.car" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Base.lproj/LaunchScreen.storyboardc/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Base.lproj/Main.storyboardc/DetailViewController.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Base.lproj/Main.storyboardc/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Base.lproj/Main.storyboardc/UINavigationController-634-lt-IjA.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Base.lproj/Main.storyboardc/iKx-Xi-xqg-view-zA8-35-UCj.nib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Contacts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Frameworks/libswiftCore.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Frameworks/libswiftCoreFoundation.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Frameworks/libswiftCoreGraphics.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Frameworks/libswiftCoreImage.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Frameworks/libswiftDarwin.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Frameworks/libswiftDispatch.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Frameworks/libswiftFoundation.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Frameworks/libswiftMetal.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Frameworks/libswiftObjectiveC.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Frameworks/libswiftQuartzCore.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Frameworks/libswiftSwiftOnoneSupport.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Frameworks/libswiftUIKit.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Frameworks/libswiftos.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/PkgInfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/_CodeSignature/CodeResources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/contacts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/app/iOS/ContactsSimulator.app/libswiftRemoteMirror.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppiumExample/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/src/test/java/AppiumSupport/AppiumBaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppiumExample/src/test/java/AppiumSupport/AppiumBaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/src/test/java/AppiumSupport/AppiumController.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppiumExample/src/test/java/AppiumSupport/AppiumController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/src/test/java/PageObjects/ContactDetailPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/src/test/java/PageObjects/ContactDetailPageAndroid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/src/test/java/PageObjects/ContactDetailPageIOS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/src/test/java/PageObjects/ContactSearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppiumExample/src/test/java/PageObjects/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/src/test/java/PageObjects/ContactSearchPageAndroid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/src/test/java/PageObjects/ContactSearchPageIOS.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppiumExample/src/test/java/PageObjects/HomePageIOS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/src/test/java/Test/BaseTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppiumExample/src/test/java/Test/BaseTestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppiumExample/src/test/java/Test/Test_ContactSearch.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="2KHiZL7iWUlMU4b4WcrgAvhbz0a" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PageObjects" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Test_Picnic.loginWithLocalUser">
+    <configuration name="Test_ContactSearch" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="AppiumExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.Test_ContactSearch" />
+      <option name="METHOD_NAME" value="searchContact" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_ContactSearch.checkHomePage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AppiumExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.Test_ContactSearch" />
+      <option name="METHOD_NAME" value="checkHomePage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Picnic.checkHomePage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AppiumExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.Test_Picnic" />
+      <option name="METHOD_NAME" value="checkHomePage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Picnic.loginWithLocalUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AppiumExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.Test_Picnic" />
+      <option name="METHOD_NAME" value="loginWithLocalUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Picnic.loginWithNewUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AppiumExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.Test_Picnic" />
+      <option name="METHOD_NAME" value="loginWithNewUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Picnic.loginWithWrongUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AppiumExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.Test_Picnic" />
+      <option name="METHOD_NAME" value="loginWithWrongUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Test_ContactSearch" />
+      <item itemvalue="JUnit.Test_ContactSearch.checkHomePage" />
+      <item itemvalue="JUnit.Test_Picnic.checkHomePage" />
+      <item itemvalue="JUnit.Test_Picnic.loginWithWrongUser" />
+      <item itemvalue="JUnit.Test_Picnic.loginWithNewUser" />
+      <item itemvalue="JUnit.Test_Picnic.loginWithLocalUser" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test_Picnic.loginWithLocalUser" />
+        <item itemvalue="JUnit.Test_Picnic.loginWithNewUser" />
+        <item itemvalue="JUnit.Test_Picnic.loginWithWrongUser" />
+        <item itemvalue="JUnit.Test_Picnic.checkHomePage" />
+        <item itemvalue="JUnit.Test_ContactSearch.checkHomePage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34f267be-1307-4538-bfe3-c3658686177c" name="Changes" comment="" />
+      <created>1673637963830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673637963830</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
